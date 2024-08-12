@@ -1,7 +1,7 @@
 {
     "name": "topazi",
     "preductname": "Topazi",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Topazi",
     "main": "src/app.js",
     "author": {
